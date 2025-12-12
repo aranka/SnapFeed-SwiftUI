@@ -1,0 +1,73 @@
+/* Authentication */
+"login.title" = "Login";
+"login.email.placeholder" = "Enter your email";
+"login.password.placeholder" = "Enter your password";
+"login.button" = "Login";
+"login.forget.password" = "Forget Password";
+"login.or" = "OR";
+"login.facebook.continue" = "Continue With Facebook";
+"login.sign.up" = "Don't have an account";
+"login.sign.up.button" = "Sign Up";
+
+/* Registration */
+"register.add.email.title" = "Add Email";
+"register.add.email.description" = "You'll use this email to sign in to your account";
+"register.add.email.placeholder" = "Email";
+"register.add.email.next" = "Next";
+
+"register.add.username.title" = "Add Username";
+"register.add.username.placeholder" = "Username";
+"register.add.username.next" = "Next";
+
+"register.add.password.title" = "Add Password";
+"register.add.password.placeholder" = "Password";
+"register.add.password.next" = "Next";
+
+"register.complete.title" = "Welcome to SnapFeed, %@";
+"register.complete.description" = "Click below to complete registration";
+"register.complete.button" = "Complete Sign Up";
+
+/* Validation Errors */
+"error.email.required" = "Please enter email";
+"error.email.invalid" = "Please enter valid email";
+"error.username.required" = "Please enter username";
+"error.password.required" = "Please enter password";
+"error.password.length" = "Please enter a password longer than 6 characters";
+
+/* Navigation */
+"navigation.feeds" = "Feeds";
+"navigation.explore" = "Explore";
+"navigation.profile" = "Profile";
+"navigation.my.profile" = "My Profile";
+"navigation.edit.profile" = "Edit Profile";
+"navigation.new.post" = "New Post";
+"navigation.notifications" = "Notifications";
+
+/* Profile */
+"profile.edit" = "Edit Profile";
+"profile.follow" = "Follow";
+"profile.posts" = "Posts";
+"profile.followers" = "Followers";
+"profile.following" = "Following";
+"profile.edit.picture" = "Edit Profile Picture";
+"profile.name" = "Name";
+"profile.name.placeholder" = "Enter your name...";
+"profile.bio" = "Bio";
+"profile.bio.placeholder" = "Enter your bio...";
+"profile.cancel" = "Cancel";
+"profile.done" = "Done";
+
+/* Upload Post */
+"upload.cancel" = "Cancel";
+"upload.upload" = "Upload";
+"upload.caption.placeholder" = "Enter your caption";
+
+/* Search */
+"search.placeholder" = "Search...";
+
+/* Common */
+"common.next" = "Next";
+"common.cancel" = "Cancel";
+"common.done" = "Done";
+"common.save" = "Save";
+

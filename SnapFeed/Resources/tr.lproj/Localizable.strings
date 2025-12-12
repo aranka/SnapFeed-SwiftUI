@@ -1,0 +1,73 @@
+/* Authentication */
+"login.title" = "Giriş Yap";
+"login.email.placeholder" = "E-posta adresinizi girin";
+"login.password.placeholder" = "Şifrenizi girin";
+"login.button" = "Giriş Yap";
+"login.forget.password" = "Şifremi Unuttum";
+"login.or" = "VEYA";
+"login.facebook.continue" = "Facebook ile Devam Et";
+"login.sign.up" = "Hesabınız yok mu";
+"login.sign.up.button" = "Kayıt Ol";
+
+/* Registration */
+"register.add.email.title" = "E-posta Ekle";
+"register.add.email.description" = "Bu e-postayı hesabınıza giriş yapmak için kullanacaksınız";
+"register.add.email.placeholder" = "E-posta";
+"register.add.email.next" = "İleri";
+
+"register.add.username.title" = "Kullanıcı Adı Ekle";
+"register.add.username.placeholder" = "Kullanıcı Adı";
+"register.add.username.next" = "İleri";
+
+"register.add.password.title" = "Şifre Ekle";
+"register.add.password.placeholder" = "Şifre";
+"register.add.password.next" = "İleri";
+
+"register.complete.title" = "SnapFeed'e Hoş Geldiniz, %@";
+"register.complete.description" = "Kayıt olmayı tamamlamak için aşağıya tıklayın";
+"register.complete.button" = "Kayıt Olmayı Tamamla";
+
+/* Validation Errors */
+"error.email.required" = "Lütfen e-posta girin";
+"error.email.invalid" = "Lütfen geçerli bir e-posta girin";
+"error.username.required" = "Lütfen kullanıcı adı girin";
+"error.password.required" = "Lütfen şifre girin";
+"error.password.length" = "Lütfen 6 karakterden uzun bir şifre girin";
+
+/* Navigation */
+"navigation.feeds" = "Akış";
+"navigation.explore" = "Keşfet";
+"navigation.profile" = "Profil";
+"navigation.my.profile" = "Profilim";
+"navigation.edit.profile" = "Profili Düzenle";
+"navigation.new.post" = "Yeni Gönderi";
+"navigation.notifications" = "Bildirimler";
+
+/* Profile */
+"profile.edit" = "Profili Düzenle";
+"profile.follow" = "Takip Et";
+"profile.posts" = "Gönderiler";
+"profile.followers" = "Takipçiler";
+"profile.following" = "Takip Edilenler";
+"profile.edit.picture" = "Profil Fotoğrafını Düzenle";
+"profile.name" = "İsim";
+"profile.name.placeholder" = "İsminizi girin...";
+"profile.bio" = "Biyografi";
+"profile.bio.placeholder" = "Biyografinizi girin...";
+"profile.cancel" = "İptal";
+"profile.done" = "Tamam";
+
+/* Upload Post */
+"upload.cancel" = "İptal";
+"upload.upload" = "Yükle";
+"upload.caption.placeholder" = "Açıklamanızı girin";
+
+/* Search */
+"search.placeholder" = "Ara...";
+
+/* Common */
+"common.next" = "İleri";
+"common.cancel" = "İptal";
+"common.done" = "Tamam";
+"common.save" = "Kaydet";
+
